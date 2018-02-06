@@ -1,0 +1,16 @@
+.index {
+    background-color:blue;
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    .text {
+        color: yellow;
+       
+    }
+    p {
+        width: 100px;
+        height: 200px;
+        flex: 1;
+    }
+}
